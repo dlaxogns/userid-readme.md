@@ -4,3 +4,6 @@
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
+
+https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat
+
